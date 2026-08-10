@@ -44,6 +44,6 @@
 <br>
 
 ### 테트라 App ▶️
-- 테트라 APK: [다운로드](https://raw.githubusercontent.com/Hyulim-Networks/.github/main/profile/app/tetra_single_controller.apk)
+- 테트라 APK: [다운로드](https://raw.githubusercontent.com/Hyulim-Networks/.github/main/profile/app/tetra_260810.apk)
 <br>
 
