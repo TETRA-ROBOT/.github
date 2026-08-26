@@ -21,29 +21,29 @@
 ![테트라 연혁](./img/tetra_history.png)
 
 ### 테트라 사양서 📜
-- 테트라 M 사양서: [다운로드](https://raw.githubusercontent.com/Hyulim-Networks/.github/main/profile/docs/spec/m/TETRA_DSV_M_specifications_241029.pdf) - [미리보기](./docs/spec/m/TETRA_DSV_M_specifications_241029.pdf)
-- 테트라 S 사양서: [다운로드](https://raw.githubusercontent.com/Hyulim-Networks/.github/main/profile/docs/spec/s/TETRA_DSV_S_specifications_241029.pdf) - [미리보기](./docs/spec/s/TETRA_DSV_S_specifications_241029.pdf)
+- 테트라 M 사양서: [다운로드](https://raw.githubusercontent.com/TETRA-ROBOT/.github/main/profile/docs/spec/m/TETRA_DSV_M_specifications_241029.pdf) - [미리보기](./docs/spec/m/TETRA_DSV_M_specifications_241029.pdf)
+- 테트라 S 사양서: [다운로드](https://raw.githubusercontent.com/TETRA-ROBOT/.github/main/profile/docs/spec/s/TETRA_DSV_S_specifications_241029.pdf) - [미리보기](./docs/spec/s/TETRA_DSV_S_specifications_241029.pdf)
 <br>
 
 ### 테트라 Control Hardware Protocol 매뉴얼 ⚡
-- 테트라 Control Hardware Protocol 매뉴얼: [다운로드](https://raw.githubusercontent.com/Hyulim-Networks/.github/main/profile/docs/protocol/TETRA_DSV_control_hardware_protocol_241029.pdf) - [미리보기](./docs/protocol/TETRA_DSV_control_hardware_protocol_241029.pdf)
+- 테트라 Control Hardware Protocol 매뉴얼: [다운로드](https://raw.githubusercontent.com/TETRA-ROBOT/.github/main/profile/docs/protocol/TETRA_DSV_control_hardware_protocol_241029.pdf) - [미리보기](./docs/protocol/TETRA_DSV_control_hardware_protocol_241029.pdf)
 <br>
 
 ### 테트라 ROS 매뉴얼 🤖
-- 테트라 ROS Melodic 매뉴얼: [다운로드](https://raw.githubusercontent.com/Hyulim-Networks/.github/main/profile/docs/ros/TETRA_DSV_ros_melodic_menual_241029.pdf) - [미리보기](./docs/ros/TETRA_DSV_ros_melodic_menual_241029.pdf)
+- 테트라 ROS Melodic 매뉴얼: [다운로드](https://raw.githubusercontent.com/TETRA-ROBOT/.github/main/profile/docs/ros/TETRA_DSV_ros_melodic_menual_241029.pdf) - [미리보기](./docs/ros/TETRA_DSV_ros_melodic_menual_241029.pdf)
 <br>
 
 ### 테트라 Back-End 매뉴얼 💻
-- 테트라 REST API 문서: [다운로드](https://raw.githubusercontent.com/Hyulim-Networks/.github/main/profile/docs/restapi/tetra_single_api_20241024.pdf) - [미리보기](./docs/restapi/tetra_single_api_20241024.pdf)
+- 테트라 REST API 문서: [다운로드](https://raw.githubusercontent.com/TETRA-ROBOT/.github/main/profile/docs/restapi/tetra_single_api_20241024.pdf) - [미리보기](./docs/restapi/tetra_single_api_20241024.pdf)
 - 테트라 REST API 예시: [바로가기](./docs/restapi/ex_20241029.md)
 - 테트라 Web Socket 매뉴얼: [바로가기](./docs/websocket/websocket_20250214.md)
 <br>
 
 ### 테트라 App 매뉴얼 📱
-- 테트라 싱글관제 매뉴얼: [다운로드](https://raw.githubusercontent.com/Hyulim-Networks/.github/main/profile/docs/app/TETRA-DSV_Controller_Manual_v241028.pdf) - [미리보기](./docs/app/TETRA-DSV_Controller_Manual_v241028.pdf)
+- 테트라 싱글관제 매뉴얼: [다운로드](https://raw.githubusercontent.com/TETRA-ROBOT/.github/main/profile/docs/app/TETRA-DSV_Controller_Manual_v241028.pdf) - [미리보기](./docs/app/TETRA-DSV_Controller_Manual_v241028.pdf)
 <br>
 
 ### 테트라 App ▶️
-- 테트라 APK: [다운로드](https://raw.githubusercontent.com/Hyulim-Networks/.github/main/profile/app/tetra_260810.apk)
+- 테트라 APK: [다운로드](https://raw.githubusercontent.com/TETRA-ROBOT/.github/main/profile/app/tetra_260810.apk)
 <br>
 
