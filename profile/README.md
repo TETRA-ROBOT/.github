@@ -31,7 +31,6 @@
 
 ### 테트라 ROS 매뉴얼 🤖
 - 테트라 ROS Melodic 매뉴얼: [다운로드](https://raw.githubusercontent.com/TETRA-ROBOT/.github/main/profile/docs/ros/TETRA_DSV_ros_melodic_menual_241029.pdf) - [미리보기](./docs/ros/TETRA_DSV_ros_melodic_menual_241029.pdf)
-<br>
 - 테트라 EDU ROS2 매뉴얼: [다운로드](https://raw.githubusercontent.com/TETRA-ROBOT/.github/main/profile/docs/ros/TETRA-EDU_Menual_ROS2.pdf) - [미리보기](./docs/ros/TETRA-EDU_Menual_ROS2.pdf)
 <br>
 
