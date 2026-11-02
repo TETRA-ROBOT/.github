@@ -133,7 +133,7 @@ socket.on("robot:battery", (data) => console.log("배터리:", data.battery));
 | 연동 | REST API 예제 (C++) | 2024-10-29 | [보기](./docs/restapi/ex_20241029.md) |
 | 연동 | WebSocket(Socket.IO) 이벤트 명세 (로봇 SW 0.3.8) | 2025-02-14 | [보기](./docs/websocket/websocket_20250214.md) |
 | 앱 | 싱글관제 앱 매뉴얼 | 2024-10-28 | [보기](./docs/app/TETRA-DSV_Controller_Manual_v241028.pdf) · [받기](https://raw.githubusercontent.com/TETRA-ROBOT/.github/main/profile/docs/app/TETRA-DSV_Controller_Manual_v241028.pdf) |
-| 앱 | 싱글관제 앱 (Android APK) | 2026-08-28 | [받기](https://raw.githubusercontent.com/TETRA-ROBOT/.github/main/profile/app/tetra_260828.apk) |
+| 앱 | 싱글관제 앱 (Android APK) v1.1.7 | 2026-11-02 | [받기](https://raw.githubusercontent.com/TETRA-ROBOT/.github/main/profile/app/tetra_v1.1.7.apk) |
 
 ## 문의
 
