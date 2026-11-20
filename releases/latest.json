@@ -1,0 +1,58 @@
+{
+  "schema": 1,
+  "robot": {
+    "version": null,
+    "tag": null,
+    "released_at": null,
+    "api_level": null,
+    "notes": {
+      "ko": {
+        "features": [],
+        "fixes": [],
+        "check_after_update": []
+      },
+      "en": {
+        "features": [],
+        "fixes": [],
+        "check_after_update": []
+      }
+    }
+  },
+  "fleet": {
+    "version": null,
+    "tag": null,
+    "released_at": null,
+    "min_robot_api_level": null,
+    "notes": {
+      "ko": {
+        "features": [],
+        "fixes": [],
+        "check_after_update": []
+      },
+      "en": {
+        "features": [],
+        "fixes": [],
+        "check_after_update": []
+      }
+    }
+  },
+  "android": {
+    "version": null,
+    "tag": null,
+    "released_at": null,
+    "min_robot_api_level": null,
+    "apk_url": null,
+    "notes": {
+      "ko": {
+        "features": [],
+        "fixes": [],
+        "check_after_update": []
+      },
+      "en": {
+        "features": [],
+        "fixes": [],
+        "check_after_update": []
+      }
+    }
+  }
+}
